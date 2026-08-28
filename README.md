@@ -8,29 +8,9 @@ Actualmente curso el 4to año de la carrera y me desempeño como becario de inve
 
 ### 🛠️ Mi Stack Tecnológico
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Bases de Datos:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-**Herramientas & Entorno:**  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🚀 ¿En qué estoy trabajando?
-
-* 🔭 Desarrollando un dashboard interactivo para el monitoreo del nivel del agua en tiempo real (GERU).
-* 🌱 Profundizando mis conocimientos en arquitectura de software y diseño de APIs RESTful.
-* ⚡ Intereses: Desarrollo Full Stack, Bases de Datos, y Análisis de Datos.
+* Lenguajes: Java, C#, Python, TypeScript, SQL.
+* Frameworks y Librerias: Spring Boot, .NET Core, ABP, Angular, React, Arduino.
+* Bases de Datos y Herramientas: PostgreSQL, Git, Docker.
 
 ---
 
